@@ -23,8 +23,8 @@ Display the result.
 
 ## Program:
 ```
-DEVELOPED BY: PRAVINRAJJ G.K
-REGISTER NUMBER: 212222240080
+DEVELOPED BY: Praveen .v
+REGISTER NUMBER: 212222233004
 ```
 
 ### Read image and convert it to grayscale image
